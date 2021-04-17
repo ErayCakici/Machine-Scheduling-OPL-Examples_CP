@@ -10,5 +10,9 @@ Problems addressed are:
 - [Single machine scheduling to minimize total weighted completion times (with precedence constraints)](https://github.com/ErayCakici/Scheduling-OPL-Examples_CP/blob/main/SingleMch_TWCT_precedence.mod)
 - [Single machine scheduling to minimize total weighted completion times (with batching and incompatible job families)](https://github.com/ErayCakici/Scheduling-OPL-Examples_CP/blob/main/SingleMch_TWCT_batching.mod)
 - [Single machine scheduling to minimize makespane (with sequence dependent setup times)](https://github.com/ErayCakici/Scheduling-OPL-Examples_CP/blob/main/SingleMch_SeqDepSetup.mod)
+- [Parallel machine scheduling to minimize makespan](https://github.com/ErayCakici/Scheduling-OPL-Examples_CP/blob/main/ParallelMch_Makespan.mod) 
+- [Parallel machine scheduling to minimize total weighted tardiness (with batching and incompatible job families)](https://github.com/ErayCakici/Scheduling-OPL-Examples_CP/blob/main/ParallelMch_TWT_Batching.mod) 
+- [Parallel machine scheduling to minimize makespan (with sequence dependent setup times and unrelated machines)](https://github.com/ErayCakici/Scheduling-OPL-Examples_CP/blob/main/ParallelMch_UnrelatedSeqDep.mod) 
+- To be continued
 
 Same problems are formulated in Python at [Scheduling-DOCPLEX-Examples_CP](https://github.com/ErayCakici/Scheduling-DOCPLEX-Examples_CP) repository. 
