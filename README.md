@@ -13,6 +13,9 @@ Problems addressed are:
 - [Parallel machine scheduling to minimize makespan](https://github.com/ErayCakici/Scheduling-OPL-Examples_CP/blob/main/ParallelMch_Makespan.mod) 
 - [Parallel machine scheduling to minimize total weighted tardiness (with batching and incompatible job families)](https://github.com/ErayCakici/Scheduling-OPL-Examples_CP/blob/main/ParallelMch_TWT_Batching.mod) 
 - [Parallel machine scheduling to minimize makespan (with sequence dependent setup times and unrelated machines)](https://github.com/ErayCakici/Scheduling-OPL-Examples_CP/blob/main/ParallelMch_UnrelatedSeqDep.mod) 
+- [Parallel machine scheduling to minimize makespan (Job Shop)](https://github.com/ErayCakici/Scheduling-OPL-Examples_CP/blob/main/ParallelMch_JobShop.mod) 
+- [Parallel machine scheduling to minimize makespan (Flow Shop)](https://github.com/ErayCakici/Scheduling-OPL-Examples_CP/blob/main/ParallelMch_FlowShop.mod) 
+- [Parallel machine scheduling to minimize makespan (Open Shop)](https://github.com/ErayCakici/Scheduling-OPL-Examples_CP/blob/main/ParallelMch_OpenShop.mod) 
 - To be continued
 
 Same problems are formulated in Python at [Scheduling-DOCPLEX-Examples_CP](https://github.com/ErayCakici/Scheduling-DOCPLEX-Examples_CP) repository. 
