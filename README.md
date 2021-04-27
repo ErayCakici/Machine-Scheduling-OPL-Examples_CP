@@ -18,7 +18,7 @@ Problems addressed are:
 - [Parallel machine scheduling to minimize makespan (Open Shop)](https://github.com/ErayCakici/Scheduling-OPL-Examples_CP/blob/main/ParallelMch_OpenShop.mod) 
 - [Parallel machine scheduling to minimize makespan (Flexible Job Shop)](https://github.com/ErayCakici/Scheduling-OPL-Examples_CP/blob/main/ParallelMch_FlexibleJobShop.mod) 
 - [Parallel machine scheduling to minimize makespan (with resource constraints)](https://github.com/ErayCakici/Scheduling-OPL-Examples_CP/blob/main/ParallelMch_ResourceConstrained.mod) 
-- [Parallel machine scheduling to minimize makespan (with flexible resource constraints)](https://github.com/ErayCakici/Scheduling-OPL-Examples_CP/blob/main/ParallelMch_FlexibleRCSP.mod) 
+- [Parallel machine scheduling to minimize number of tardy jobs (with flexible resource constraints)](https://github.com/ErayCakici/Scheduling-OPL-Examples_CP/blob/main/ParallelMch_FlexibleRCSP.mod) 
 - To be continued
 
 Same problems are formulated in Python at [Scheduling-DOCPLEX-Examples_CP](https://github.com/ErayCakici/Scheduling-DOCPLEX-Examples_CP) repository. 
