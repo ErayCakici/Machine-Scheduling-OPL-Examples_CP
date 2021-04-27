@@ -1,0 +1,49 @@
+// --------------------------------------------------------------------------
+// Licensed Materials - Property of IBM
+//
+// 5725-A06 5725-A29 5724-Y48 5724-Y49 5724-Y54 5724-Y55
+// Copyright IBM Corporation 1998, 2020. All Rights Reserved.
+//
+// Note to U.S. Government Users Restricted Rights:
+// Use, duplication or disclosure restricted by GSA ADP Schedule
+// Contract with IBM Corp.
+// --------------------------------------------------------------------------
+jobOperations = {
+<opr_0,0,1>,
+<opr_1,0,2>,
+<opr_2,0,3>,
+<opr_3,1,1>,
+<opr_4,1,2>,
+<opr_5,2,1>,
+<opr_6,2,2>,
+<opr_7,2,3>,
+<opr_8,3,1>,
+<opr_9,4,1>,  
+};
+
+operationMachines = {
+<opr_0,0,24>,
+<opr_0,2,37>,
+<opr_1,1,25>,
+<opr_1,2,28>,
+<opr_2,1,33>,
+<opr_3,0,11>,
+<opr_3,2,23>,
+<opr_3,1,39>,
+<opr_4,1,28>,
+<opr_4,2,19>,
+<opr_4,0,23>,
+<opr_5,2,22>,
+<opr_5,1,15>,
+<opr_5,0,39>,
+<opr_6,2,15>,
+<opr_6,1,37>,
+<opr_7,1,22>,
+<opr_7,2,21>,
+<opr_8,2,28>,
+<opr_8,1,30>,
+<opr_8,0,40>,
+<opr_9,1,39>,
+<opr_9,2,15>,
+ 
+};
