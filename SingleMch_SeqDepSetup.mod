@@ -40,6 +40,6 @@ dvar sequence singlemachine in all(j in Jobs) itvs[j] types all(j in Jobs) j;
 minimize max(j in Jobs) (endOf(itvs[j]));
 
 subject to {
-    noOverlap(singlemachine,SetUpMatrix);   
+    noOverlap(singlemachine,SetUpMatrix,True);   
 }
 
