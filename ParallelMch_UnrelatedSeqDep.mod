@@ -51,7 +51,7 @@ forall (j in Jobs)
   	
 //no overlap
 forall (m in Machines) 
-    noOverlap(machine[m],SetUpMatrix[m]);   
+    noOverlap(machine[m],SetUpMatrix[m],True);   
 } 
 
 execute {
